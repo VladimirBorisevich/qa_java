@@ -1,9 +1,10 @@
 # Compiled class file
 *.class
-
+#mac
+.DS_Store
 # Log file
 *.log
-
+.idea
 # BlueJ files
 *.ctxt
 
